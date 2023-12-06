@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2d7b4d00-158c-490e-b4af-f40cf4c88272" name="Changes" comment="" />
+    <list default="true" id="2d7b4d00-158c-490e-b4af-f40cf4c88272" name="Changes" comment="блекджек игра" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +59,18 @@
       <option name="presentableId" value="Default" />
       <updated>1681068269866</updated>
     </task>
+    <task id="LOCAL-00001" summary="блекджек игра">
+      <created>1701893217988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701893217988</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="блекджек игра" />
+    <option name="LAST_COMMIT_MESSAGE" value="блекджек игра" />
   </component>
 </project>
